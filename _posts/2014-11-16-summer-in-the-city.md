@@ -3,7 +3,7 @@ layout: post
 title: "Mapping Summer in the City Volunteers"
 date: 2014-11-16 13:38:00
 summary: "A mapping tool for deciding where carpool sites should be located to
-accomodated a non-profit's volunteers"
+better accomodate a nonprofit's volunteers"
 ---
 
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
@@ -20,7 +20,7 @@ accomodated a non-profit's volunteers"
 
 </style>
 
-Summer in the City is a non-profit organization based in Detroit that works to
+Summer in the City is a nonprofit organization based in Detroit that works to
 bring a diverse group of volunteers together to address the immediate needs of
 Detroit through their "Paint, Plant, and Play" program. Over the entire summer,
 nearly 1,000 volunteers are driven from different carpool sites in the Metro Detroit
