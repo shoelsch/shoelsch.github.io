@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/shoelsch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stevenhoelscher.me
+  * I am shoelsch (https://keybase.io/shoelsch) on keybase.
+  * I have a public key with fingerprint 0914 13C6 133A 9C67 A1DF  6DB2 F701 C184 C33A 9F03
+
+To do so, I am signing this object:
+
+{
+    body: {
+        client: {
+            name: keybase.io node.js client,
+            version: 0.7.7
+        },
+        key: {
+            fingerprint: 091413c6133a9c67a1df6db2f701c184c33a9f03,
+            host: keybase.io,
+            key_id: F701C184C33A9F03,
+            uid: 26048f28454ed79294ca7290fb142419,
+            username: shoelsch
+        },
+        merkle_root: {
+            ctime: 1426465992,
+            hash: 758c2456248d9f1e2ce99f4274d679f9b2981e6b4e944113be2925acba9249de1b1960eee60a3e50edba9f6e61d1d92a1d6befee76bb4b6a3c88633615e0026a,
+            seqno: 177758
+        },
+        service: {
+            hostname: stevenhoelscher.me,
+            protocol: http:
+        },
+        type: web_service_binding,
+        version: 1
+    },
+    ctime: 1426466102,
+    expire_in: 157680000,
+    prev: 5c693d973f43708ba560446f7ca2a300be6b2b4fe47edbe6e4b9ad64b2d4620b,
+    seqno: 5,
+    tag: signature
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFVUm9oHEUUv2uapEaiR4qCNG3T9U+rhmNmdnZmJ7TBGgxKhBZLWuyHXndm395t
+k+6eu5szIURQFBqDNZIqtVisflBaUWmrVKRIDQ0NhmAtaWj9UBArGIWiVzTFonE2
+pGjn08x7v/fe7/d7M9pYk2nItmybfvfCU+OnslNzMtNd9yAbNGToDhhtg4bq9SFI
+0lvg7AWjzeiBAenEkPfDliB0Ib8nblnCtBoViGI/DDQK5XmeG0OtKTwt9vygCFE5
+8tNeBhKYYlMxbJqOUIw72PWYK4nHEVbYpiqNe8jULUthnNw21VjsWfBdHe3U+A6N
+7zDNzaJzEd+3mCAMUdsjNrUouFwQQZXDiUCexJRQLFJgDNGSpLgUQm+sSinfvRD1
+9EIhCsNF0SrxU4iuYpRZQhDNyIlLuohbtiLUYoTarvAwEAVCeJRw6jIuPCGJsDEw
+SUFQirEpgQhiOUo6glDhApZYMAQADDkmWAhcnfEYMOxiVxBtCZPgAXAmJZXMMZVt
+M9Nk2AKECHO0hBieC0JNjnNNZih9RxVfQco7te2WugQqECxJhCivg61GOQqTUIW9
+Ol9KknJbKj0ZKINxss14HmRhqVVB+oGrV/f/3WINvc0WhpG2BfrLfgQFP0VYnNlI
+n3QOVPQMSzFhuoKbHjU5sqVj6QVR5nHlEMdESGqjiKQeUK59AAZUCsdlVBKXMoLk
+f2ItzdMpprL8YuAkfREYQ8PZ5uWZbEOmrnZZ+nkzDXfkbv3oanZFZlRe6fp19/ia
+hYfyM2NXTh+ouyknD+16u2/2u81TI5807N9377rPa0pbux47u3LLx9XV54Zf/jt3
+8UL71O/bw4dRaWKu9dL88Nljoyfumd1+9MUn2q+ufHXTdPeZiV+s+cED67Z8G37R
+/uaf528s1H596MbcbCX/1/Xq8vXbNi5cqjkzWVxx8MsfRl7YmXv6Wvbafas+eHx6
+/MjOifvfUI+MXj5cvV6/4ZWteyZvoq/2d92Vu/P8by/tvuqv6fm+yev8dF99sEOt
+7aj/5sn3zyVNb629zJu6fxz72dhw97L1n800PnrxYP/0P7Uk98dAzen55upPr7+z
+6rDPxjZ+1Dyy+oH+Z2aePf5ebtem1z4sNh7/Fw==
+=c/JF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shoelsch
+
+==================================================================
